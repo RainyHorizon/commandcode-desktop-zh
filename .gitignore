@@ -1,0 +1,8 @@
+# 工具生成的中间产物
+tools/candidates.txt
+tools/missing.txt
+tools/runtime-missing.txt
+tools/*.log
+
+# 临时文件
+*.tmp
